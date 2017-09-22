@@ -4,10 +4,10 @@ The aim of this repository is to maintain the PCE association-type used by ongoi
 
  Each association-type value should be tracked with the following qualities:
 
-   -Type
-   -Name
-   -Reference
-   -Contact
+   - Type
+   - Name
+   - Reference
+   - Contact
    
 This is a temporary repository, once the PCE association draft (https://datatracker.ietf.org/doc/draft-ietf-pce-association-group/) becomes RFC and the IANA creates a sub-registory, this repository would be abandoned and the usual early allocation process should be used. 
 
